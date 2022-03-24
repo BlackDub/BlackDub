@@ -7,7 +7,7 @@ http://127.0.0.1:2000/pid/b32bdafa5d6294cb8fff47ce7956ad8fd92f3ecf/stream.mp4
 http://127.0.0.1:2000/pid/3484a8b98af044d885fdc5f77e6e46a1506cbcf6/stream.mp4
 
 #EXTINF:-1 tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/blob/main/jungle-picon-Movistar-Transparente/picon/1_0_1_76A4_41E_1_C00000_0_0_0.png?raw=true" group-title="acestream" tvg-chno="3",DAZN 1
-http://127.0.0.1:2000/pid/e378fc79083c3a72b5b0ca59d7770d921e168888/stream.mp4
+http://127.0.0.1:2000/pid/ffc077d6cc2acd501c539b51b9c4fbc106b369c3/stream.mp4
 
 #EXTINF:-1 tvg-logo="https://github.com/jungla-team/Picon-enigma2-Movistar/blob/main/jungle-picon-Movistar-Transparente/picon/1_0_1_772A_416_1_C00000_0_0_0.png?raw=true" group-title="acestream" tvg-chno="4",DAZN 2
 http://127.0.0.1:2000/pid/b402c07f2e8bfe253815e08df0b7e0a6b0fad8e3/stream.mp4
