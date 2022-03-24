@@ -43,7 +43,8 @@ http://127.0.0.1:2000/pid/4d78fadc6701008fb528202d9671e1d0f2acd486/stream.mp4
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/crgmI3z8Rq36RHTfFdpVVP44xMwkt7HUhqQkYOyxLTZwve7MjnmU-gaCNdZSBds8p4i3" group-title="acestream" tvg-chno="24",Eurosport 1
 http://127.0.0.1:2000/pid/5d330dc46d4e24a8db88ab9945c0595883bd280e/stream.mp4
 
-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/crgmI3z8Rq36RHTfFdpVVP44xMwkt7HUhqQkYOyxLTZwve7MjnmU-gaCNdZSBds8p4i3" group-title="acestream" tvg-chno="25",#Vamos
+http://127.0.0.1:2000/pid/5d330dc46d4e24a8db88ab9945c0595883bd280e/stream.mp4
 
 
 
