@@ -28,7 +28,7 @@ http://127.0.0.1:2000/pid/4d2e5cad27f18385fd492a798b1bcf27e0f1a5e0/stream.mp4
 http://127.0.0.1:2000/pid/c47f756750190e4b2a9eefe8afdac48a2203b8d6/stream.mp4
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/crgmI3z8Rq36RHTfFdpVVP44xMwkt7HUhqQkYOyxLTZwve7MjnmU-gaCNdZSBds8p4i3" group-title="acestream" tvg-chno="12",M. Deportes 2
-http://127.0.0.1:2000/pid/ef7034ccf8a05e7b491f4b00d1b109b4dcf691b6/stream.mp4
+#http://127.0.0.1:2000/pid/ef7034ccf8a05e7b491f4b00d1b109b4dcf691b6/stream.mp4
 
 
 
