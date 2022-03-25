@@ -59,5 +59,6 @@ http://127.0.0.1:2000/pid/75bb9c74eecbd508a30b3f308f62938180062c6d/stream.mp4
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/crgmI3z8Rq36RHTfFdpVVP44xMwkt7HUhqQkYOyxLTZwve7MjnmU-gaCNdZSBds8p4i3" group-title="acestream" tvg-chno="36",TEST
 http://127.0.0.1:2000/pid/test/stream.mp4
 
-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/crgmI3z8Rq36RHTfFdpVVP44xMwkt7HUhqQkYOyxLTZwve7MjnmU-gaCNdZSBds8p4i3" group-title="acestream" tvg-chno="37",TEST2
+http://127.0.0.1:2000/pid/test2/stream.mp4
 
